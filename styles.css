@@ -1,14 +1,11 @@
 body{
-    background-color: grey;
+    background-color:lightgray;
     margin: 8px;
 }
 #mainHeading{
     color: red;
     text-align: center;
     font-size: 40px;
-}
-p{
-    color:yellow;
 }
 .images{
     margin-left:20px;
