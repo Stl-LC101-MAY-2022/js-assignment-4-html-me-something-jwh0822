@@ -1,1 +1,20 @@
-/* Write your CSS here! */
+body{
+    background-color:lightgray;
+    margin: 8px;
+}
+#mainHeading{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+.images{
+    margin-left:20px;
+    margin-right: 30x;
+    padding-bottom: 20px;
+}
+.funParagraph{
+    color: green;
+}
+#testP{
+    color: green;
+}
